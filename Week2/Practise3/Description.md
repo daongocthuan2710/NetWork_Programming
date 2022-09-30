@@ -1,0 +1,3 @@
+# Bài 3
+## Viết chương trình tra từ điển Anh-Việt, Việt-Anh đơn giản sử dụng cơ sở dữ liệu từ điển trong file dictionary.txt do sinh viên tự tạo. Cấu trúc file này gồm nhiều dòng, mỗi dòng chứa 1 từ tiếng Anh và từ tiếng Việt không dấu, phân cách nhau bởi ký tự;
+## Yêu cầu: nhập vào từ tiếng Anh sẽ trả về từ tiếng Việt và ngược lại. Trường hợp người dùng nhập vào một từ không có trong từ điển thì trả về thông báo lỗi
