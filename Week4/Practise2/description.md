@@ -4,4 +4,3 @@
 - Server kiểm tra n, nếu:
     - Là số hoàn hảo: trả kết quả về client và xuất ra màn hình
     - Không phải số hòan hảo: trả về client số hoàn hảo lớn hơn và gần n nhất.
-
